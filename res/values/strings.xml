@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">AboutMiguel</string>
+    <string name="name">Miguel Colon</string>
+    <string name="yellow_star">Yellow star</string>
+    <string name="bio">Hi, my name is Miguel Colon.
+        \n\nI love Android Studio.
+        \n\ni dont know how i can do apps but i will learn.
+        \ni like webs but now the apps are the best option.
+        \n\nwebs pages have a lot of designs, and this is the reason that i love it.
+        \nAnd Yes, im a Front-end developer, or thats what i think.
+        \nam new developing apps, i only have a restaurant app and a calculator.
+        \n\nThis is an example, and if you read my english isnt the best in the world.
+        \n\nI\'ll be happy to develope apps for my futures clients, thats make me happy
+        \nSee you next time, for contact me here is my instagram @MiguelAC_\n\n</string>
+    <string name="pic">photo</string>
+</resources>
